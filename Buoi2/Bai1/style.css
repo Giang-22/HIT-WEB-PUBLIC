@@ -1,0 +1,121 @@
+*{
+    margin :0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+}
+.in{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 248, 246);
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 2px 2px 2px #bebaba; 
+}
+.vb1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.vb2{
+    font-family:"Noto Sans", sans-serif;
+    font-size: 8px;
+    margin-left:50px;
+    margin-top:8px;
+    color: grey;
+    font-weight: normal;
+}
+.hgg{
+    background-color: rgb(253,253,251);
+    width: 200px;
+    height: 27px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1.5px solid black;
+}
+.vbgg{
+    font-family:"Noto Sans", sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size:9px;
+    line-height: 27px;
+    color: grey;
+}
+.hfb{
+    background-color: rgb(253,253,251);
+    width: 200px;
+    height: 27px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 8px;
+    border: 1.5px solid black;
+}
+.vbfb{
+    font-family:"Noto Sans", sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size:9px;
+    line-height: 27px;
+    color: grey;
+}
+.he{
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 8px;
+    border: 1.5px solid black;
+    background-color: aliceblue;
+}
+.vbe{
+    font-weight: normal;
+    font-family:"Noto Sans", sans-serif;
+    font-size:8px;
+    text-align: left;
+    line-height: 30px;
+    margin-left: 12px;
+    color:grey;
+}
+.hmk{
+    height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 8px;
+    border: 1.5px solid black;
+    background-color: aliceblue;
+    width: 200px;
+}
+.vbmk{
+    font-weight: normal;
+    font-family:"Noto Sans", sans-serif;
+    font-size:8px;
+    text-align: left;
+    line-height: 30px;
+    margin-left: 12px;
+    color:grey;
+}
+.hdn{
+    height: 30px;
+    width: 200px;
+    margin: auto;
+    background-color: orangered;
+    margin-top: 15px;
+    border-radius: 5px;
+
+}
+.vbdn{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
