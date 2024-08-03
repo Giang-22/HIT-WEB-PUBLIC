@@ -1,0 +1,23 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.row {
+    background-color: orange;
+    width: 30px;
+    height: 30px;
+    
+}
+.text1,
+.text2,
+.text3,
+.text4,
+.text5{
+    display: flex;
+    margin: 10px;
+}
+.column1 {
+    align-content: center;
+}
